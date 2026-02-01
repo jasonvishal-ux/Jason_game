@@ -1,0 +1,7 @@
+{
+  "name": "Velocity AI: Ultimate Car Configurator & Racer",
+  "description": "A high-end car simulation experience where you can configure real-world vehicles with AI-generated specs and test drive them in a high-speed highway challenge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
